@@ -59,7 +59,7 @@ To start my career as a **Cyber Security Professional / Ethical Hacker**, where 
 
 ## 📫 Connect With Me
 
-- GitHub: [github.com/your-username](https://github.com/karangaurav)
+- GitHub: [github.com/karngaurav](https://github.com/karangaurav)
 - Email: gauravkarn5081@gmail.com
 
 ---
